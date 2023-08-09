@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0007F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamza)](https://git.io/typing-svg)
-<h3 align="center">Full Stack Web Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0007F7&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamza;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamza667&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamza667" /> </p>
 
