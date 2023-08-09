@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" width="1700px" />
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" width="1400px" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=0007F7&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamza;Full+Stack+Web+Developer)](https://git.io/typing-svg)
