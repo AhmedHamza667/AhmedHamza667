@@ -2,6 +2,7 @@
 
 
 <br/>
+ <img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)" width="500" height="320" />
 
 ![GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
