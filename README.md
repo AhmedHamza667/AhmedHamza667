@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Ahmed Hamza
 
 
-
+<p align="center">
   <a href="https://www.facebook.com/AhmedHamza1894/" target="_blank"><i class="sm fab fa-facebook-f"></i></a>
   <a href="https://www.instagram.com/ahmedhamza1894/" target="_blank"><i class="sm fab fa-instagram"></i></a>
   <a href="mailto:hamzaa667788@gmail.com" target="_blank"><i class="sm far fa-envelope"></i></a>
   <a href="https://github.com/ahmedhamza1894" target="_blank"><i class="sm fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/ahmedhamza667/" target="_blank"><i class="sm fab fa-linkedin"></i></a>
-
+</p>
 
 <!--
 **AhmedHamza667/AhmedHamza667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
