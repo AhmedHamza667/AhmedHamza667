@@ -1,26 +1,13 @@
 ### Hi there 👋, I'm Ahmed Hamza
 
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/dy2uNAS.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
 
-<div class="social-media">
+
   <a href="https://www.facebook.com/AhmedHamza1894/" target="_blank"><i class="sm fab fa-facebook-f"></i></a>
   <a href="https://www.instagram.com/ahmedhamza1894/" target="_blank"><i class="sm fab fa-instagram"></i></a>
   <a href="mailto:hamzaa667788@gmail.com" target="_blank"><i class="sm far fa-envelope"></i></a>
   <a href="https://github.com/ahmedhamza1894" target="_blank"><i class="sm fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/ahmedhamza667/" target="_blank"><i class="sm fab fa-linkedin"></i></a>
-</div>
+
 
 <!--
 **AhmedHamza667/AhmedHamza667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
