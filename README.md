@@ -3,7 +3,7 @@
 
 <br/>
 
-<div style="text-align: center;">
+<div style="display: flex; text-align: center; justify-content: center;">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF" />
 </div>
 
