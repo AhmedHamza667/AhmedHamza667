@@ -57,7 +57,7 @@
    <table>
     <tr>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br /><b>Git</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/github-light.svg" /><b>GitHub</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="[https://devicons.railway.app/i/github-light.svg](https://i.imgur.com/dy2uNAS.png)" /><b>GitHub</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br /><b>VS Code</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/postman.svg" /><b>Postman</b></td>
