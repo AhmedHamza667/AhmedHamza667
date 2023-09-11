@@ -1,7 +1,5 @@
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=0007F7&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hamza;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
 
 <br/>
 
