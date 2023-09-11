@@ -5,8 +5,6 @@
 
 <br/>
 
-
-
 ![GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamza667&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamza667" /> </p>
