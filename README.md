@@ -28,6 +28,7 @@
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><b>C++</b></td>
        </tr>
   </table>
+  
 
   ### Frameworks and Libraries
   <table>
